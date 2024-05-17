@@ -47,7 +47,7 @@ fi
 echo ""
 echo "--> Using prefix '$prefix' for all resources ..."
 echo ""
-rg="$prefix-RG"
+rg="$prefix"
 
 if [ -z "$DEPLOY_USERNAME" ]
 then
