@@ -24,7 +24,7 @@
       "value": "Standard_F4s"
     },
     "availabilityOptions": {
-      "value": "Availability Set"
+      "value": "Availability Zones"
     },
     "acceleratedNetworking": {
       "value": "true"
